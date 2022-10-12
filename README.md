@@ -7,4 +7,7 @@ Some git practice
 I have following skills:
 - list
 - loops
+- re
+- pandas
+
  
